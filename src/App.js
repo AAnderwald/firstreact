@@ -5,10 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1> This is my first React APP!</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>Not sure how I feel yet. I do like things are already loaded.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
