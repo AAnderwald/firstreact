@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Not sure how I feel yet. I do like things are already loaded.</p>
+        <p>Not sure how I feel yet. </p>
         <a
           className="App-link"
           href="https://reactjs.org"
